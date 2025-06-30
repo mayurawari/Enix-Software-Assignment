@@ -1,3 +1,4 @@
+#  Enix-Software-Assignment
 # 👤 React Native User Profile Viewer App
 
 This project is developed as part of a technical assessment for **Enix Software Pvt Ltd** using **React Native** and **TypeScript**.
@@ -28,7 +29,11 @@ This project is developed as part of a technical assessment for **Enix Software 
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./assets/React-JS.png)
+<p float="left">
+  <img src="my-app/assets/screenshots/Screenshot_20250630-194807_Expo%20Go.jpg" alt="App Screenshot 1" width="300" />
+  &nbsp;&nbsp;
+  <img src="my-app/assets/screenshots/Screenshot_20250630-194816_Expo%20Go.jpg" alt="App Screenshot 2" width="300" />
+</p>
 
 ---
 
