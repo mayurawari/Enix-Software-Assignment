@@ -1,18 +1,42 @@
 # Enix-Software-Assignment
-Employee Details Tool.
+# 👤 React Native User Profile Viewer App
 
-1. Develop using React Native and Type Script
+This project is developed as part of a technical assessment for **Enix Software Pvt Ltd** using **React Native** and **TypeScript**.
 
-2. Use fake APIs
+---
 
-3. Show user list in the left panel.
+## 📌 Problem Statement
 
-4. Load the User Details section when the user clicks on name in the User List section.
+- Show a list of users using a fake API in the left panel.
+- On clicking a user, display their details in the right section.
+- Two tabs: **Profile** (default) and **Contact**.
+- All fields must be read-only.
+- Include a dummy **Action** section (no functionality required).
 
-5. by default, profile tab should be selected.
+---
 
-6. User can click the Contact tab to see the Contract Details like Mobile number, skype ID, email address.
+## 🎯 Features
 
-7.All fields are read-only.
+- Fetches users from `https://jsonplaceholder.typicode.com/users`
+  - **Profile Tab:** Name, Phone
+  - **Contact Tab:** Email, Website
+- Dummy action buttons
+- Responsive layout using React Native components
 
-8. Show dummy actions in the action section. No need to implement its functionality.
+---
+
+## 🖼️ Screenshot
+
+![App Screenshot](./assets/React-JS.png)
+
+---
+
+## ⚙️ Installation & Running the App
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mayurawari/Enix-Software-Assignment.git
+   cd my-app
+   npm i
+   npm run android
+   (Or as per your device)
