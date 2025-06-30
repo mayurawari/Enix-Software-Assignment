@@ -1,2 +1,2 @@
 # Enix-Software-Assignment
-user management tool
+Employee Details Tool.
